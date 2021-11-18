@@ -1,4 +1,4 @@
-**Computer Code**
+# Computer Code
 
 **How easy would it be to decode pigpen?**
 
