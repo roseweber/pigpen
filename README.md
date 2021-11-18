@@ -3,12 +3,10 @@ The cipher is believed to be an ancient cipher and is said to have originated wi
 
 ![standard pigpen cypher:](http://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/8550539_orig.gif)
 
-Ahmed
 # Mechanics 
 
 The PigPen cipher is a gemoetric substitution cipher which changes letters into symbols from grids, other people call it the "tic-tac-toe cipher"
 [cipher] https://crypto.interactive-maths.com/pigpen-cipher.html
-
 
 # Mathematical Analysis
 
@@ -42,4 +40,9 @@ you can put regular english and turn it into pigpen code.
 you can buy a pigpen decoder RING on amazon for only 20 bucks!
 
 it might be a good christmas present for ms nelson so heres the [link](https://www.amazon.com/Retroworks-Decoder-Ring-Cipher-Silver/dp/B01KP7KIU4)
+
+# Final Analysis
+The pigpen code was most comonly used in the 18th century during the American Civil War. It is a huge part of the Freemasons' history and is still seen on some gravestones to this day. I think it stopped being used because it eventually became more popular and so hiding secret messages was harder and harder so people moved on to another code. 
+
+![](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/7978747_orig.gif)
 
