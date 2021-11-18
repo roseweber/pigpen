@@ -1,10 +1,10 @@
-**Computer Code**
+# Computer Code
 
 **How easy would it be to decode pigpen?**
 
 The easiest website to use to decode pigpen is [dcode.fr !](https://www.dcode.fr/pigpen-cipher)
 
-the websites layout has all the letters in alpabetical order along with a key of the coding.  It also has a feature where you can reverse the code!
+the websites layout has all the letters in alpabetical order along with a key of the coding.  It also has a feature where you can reverse the code.
 you can put regular english and turn it into pigpen code.
 
 **FUN FACT**
